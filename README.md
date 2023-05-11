@@ -1,4 +1,4 @@
-# Projeto de autenticação Basic
+# Projeto de autenticação JWT
 
 <p>Neste projeto que desenvolvi, utilizei a biblioteca `PASSPORT` para auxiliar na autenticação.</p>
 <p>Projeto rodando em forma de API com consulta ao banco de dados, disponivel na raiz do projeto!</p><br/>
